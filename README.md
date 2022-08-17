@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Olá, seja bem vindo! 
+Me chamo Cleiton e sou <i>Desenvolvedor Júnior!</i>
 
-<!--
-**cleitoncsalvagni/cleitoncsalvagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👨‍💻Um pouco sobre mim:
+<p>Sou estudante do quarto semestre da graduação em <i>Análise e Desenvolvimento de Sistemas.</i>
+<p>Atualmente faço parte da equipe <b>Mobile</b> da StarApp Sistemas (AppBarber e AppBeleza).</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Estou utilizando:
+
+<div style='flex-direction: 'column'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='50' height='50' />
+React Native
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50' height='50' />
+
+
+</div>
+

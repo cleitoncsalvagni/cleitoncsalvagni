@@ -35,6 +35,5 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack Junior.</i> 〰 My name is Cl
 #### 😉 Entre em contato comigo pelo LinkedIn 〰 Contact me via LinkedIn
 <a href="https://linkedin.com/in/cleitonsalvagni" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href='linkedin.com/cleitonsalvagni' width='50' height='50' />
-<img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/57007/left-arrow-emoji-clipart-md.png" width='50' height='50' />
 
 

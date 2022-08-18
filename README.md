@@ -1,35 +1,40 @@
-## 👋 Olá, seja bem vindo! 
-Me chamo Cleiton e sou <i>Desenvolvedor Júnior!</i>
+## 👋 Olá, seja bem vindo! 〰 Hello, Welcome!
+Me chamo Cleiton e sou <i>Desenvolvedor Júnior!</i> 〰 My name is Cleiton and I'm a <i>Junior Developer</i>!
 
 
-### 👨‍💻Um pouco sobre mim:
-<p>Sou estudante do quarto semestre da graduação em <i>Análise e Desenvolvimento de Sistemas.</i>
-<p>Atualmente faço parte da equipe <b>Mobile</b> (React Native) da StarApp Sistemas (AppBarber e AppBeleza).</p>
+### 👨‍💻 Um pouco sobre mim 〰 A little about me
+<p>Sou estudante do quarto semestre da graduação em <i>Análise e Desenvolvimento de Sistemas.</i> 〰 I am a fourth semester undergraduate student in <i>Systems Analysis and Development.</i>
+<p>Atualmente faço parte da equipe <b>Mobile</b> (React Native) da StarApp Sistemas (AppBarber e AppBeleza). 〰 I am currently part of the <b>Mobile</b> (React Native) team at StarApp Sistemas (AppBarber and AppBeleza).</p>
 
-#### Estou utilizando no momento:
+#### 🦾 Estou utilizando no momento 〰 I'm currently using
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='50' height='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='50' height='50' />
 
 
 </div>
 
-#### Estou aprendendo:
+#### 📚 Estou aprendendo 〰 I'm learning
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width='50' height='50' />
 </div>
+
+#### 😉 Entre em contato comigo pelo LinkedIn 〰 Contact me via LinkedIn
+<a href="https://linkedin.com/in/cleitonsalvagni" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href='linkedin.com/cleitonsalvagni' width='50' height='50' />
+<img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/57007/left-arrow-emoji-clipart-md.png" width='50' height='50' />
 
 

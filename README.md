@@ -6,7 +6,7 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack Junior.</i> 〰 My name is Cl
 <p>Sou estudante do quarto semestre da graduação em <i>Análise e Desenvolvimento de Sistemas.</i> 〰 I am a fourth semester undergraduate student in <i>Systems Analysis and Development.</i>
 <p>Atualmente faço parte da equipe <b>Mobile</b> (React Native) da StarApp Sistemas (AppBarber e AppBeleza). 〰 I am currently part of the <b>Mobile</b> (React Native) team at StarApp Sistemas (AppBarber and AppBeleza).</p>
 
-#### 🦾 Estou utilizando no momento 〰 I'm currently using
+#### 🦾 Estou utilizando e aperfeiçoando no momento 〰 I'm using and improving at the moment
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='50' height='50'/>

@@ -30,6 +30,7 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack Junior.</i> 〰 My name is Cl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width='50' height='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='50' height='50' />
 </div>
 
 #### 😉 Entre em contato comigo pelo LinkedIn 〰 Contact me via LinkedIn

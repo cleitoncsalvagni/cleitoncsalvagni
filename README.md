@@ -9,28 +9,30 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack Junior.</i> 〰 My name is Cl
 #### 🦾 Estou utilizando e aperfeiçoando no momento 〰 I'm using and improving at the moment
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='50' height='50'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='50' height='50' />
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='40' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='40' height='40' />
 </div>
+
+###### React Native/JS, TypeScript, Firebase, Figma.
+
 
 #### 📚 Estou aprendendo 〰 I'm learning
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width='50' height='50' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='50' height='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width='40' height='40' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='40' height='40' />
 </div>
 
-#### 😉 Entre em contato comigo pelo LinkedIn 〰 Contact me via LinkedIn
-<a href="https://linkedin.com/in/cleitonsalvagni" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href='linkedin.com/cleitonsalvagni' width='50' height='50' />
+###### NodeJS, Ruby on Rails, Flutter.
 
+
+#### 😉 Entre em contato comigo pelo LinkedIn: 〰 Contact me via LinkedIn
+<a href="https://linkedin.com/in/cleitonsalvagni" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href='www.linkedin.com/in/cleitonsalvagni' width='40' height='40' />
+  
+  
 ![Snake animation](https://github.com/HugoHenriql/HugoHenriql/blob/output/github-contribution-grid-snake.svg)
 

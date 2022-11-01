@@ -34,5 +34,5 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack Junior.</i> 〰 My name is Cl
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href='www.linkedin.com/in/cleitonsalvagni' width='40' height='40' />
   
   
-![Snake animation](https://github.com/HugoHenriql/HugoHenriql/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/HugoHenriql/HugoHenriql/blob/output/github-contribution-grid-snake.svg) -->
 

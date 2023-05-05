@@ -21,6 +21,8 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack.</i> 〰 My name is Cleiton a
   <img src="https://skillicons.dev/icons?i=nodejs,rails,flutter" /> 
 </div>
 
+###### NodeJS, Ruby on Rails, Flutter.
+
 
 #### 😉 Entre em contato comigo pelo LinkedIn: 〰 Contact me via LinkedIn
 <a href="https://linkedin.com/in/cleitonsalvagni" target="_blank">

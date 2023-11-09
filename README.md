@@ -3,7 +3,7 @@ Me chamo Cleiton e sou <i>Desenvolvedor Full Stack.</i> 〰 My name is Cleiton a
 
 
 #### 👨‍💻 Um pouco sobre mim 〰 A little about me
-<p>Sou estudante do quinto semestre da graduação em <i>Análise e Desenvolvimento de Sistemas.</i> 〰 I am a fifth semester undergraduate student in <i>Systems Analysis and Development.</i>
+<p>Graduado em <i>Análise e Desenvolvimento de Sistemas.</i> 〰 Graduated in <i>Systems Analysis and Development.</i>
 <p>Atualmente faço parte da equipe <b>Web e Mobile</b> da StarApp Sistemas (AppBarber e AppBeleza). 〰 I am currently part of the <b>Web and Mobile</b> team at StarApp Sistemas (AppBarber and AppBeleza).</p>
 
 #### 🦾 Minha stack 〰 My stack

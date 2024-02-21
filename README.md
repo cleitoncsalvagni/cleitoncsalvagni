@@ -1,29 +1,52 @@
-### 👋 Olá, seja bem vindo! 〰 Hello, Welcome!
-Me chamo Cleiton e sou <i>Desenvolvedor Full Stack.</i> 〰 My name is Cleiton and I'm a <i>Full Stack Developer</i>
+## Olá, seja bem vindo! 〰 Hello, Welcome!
 
+Me chamo Cleiton, sou graduado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como <i>Desenvolvedor Full Stack.</i>
 
-#### 👨‍💻 Um pouco sobre mim 〰 A little about me
-<p>Graduado em <i>Análise e Desenvolvimento de Sistemas.</i> 〰 Graduated in <i>Systems Analysis and Development.</i>
-<p>Atualmente faço parte da equipe <b>Web e Mobile</b> da StarApp Sistemas (AppBarber e AppBeleza). 〰 I am currently part of the <b>Web and Mobile</b> team at StarApp Sistemas (AppBarber and AppBeleza).</p>
+My name is Cleiton, I have a degree in Systems Analysis and Development and I currently work as a <i>Full Stack Developer.</i>
 
-#### 🦾 Minha stack 〰 My stack
+## Stack
 
-<div>
-  <img src="https://skillicons.dev/icons?i=react,typescript,sass,styledcomponents,bootstrap,php,firebase,sentry,figma,git,androidstudio,xcode" />  
-</div>
+<details>
+<summary>Front-end</summary>
 
-###### React Native/JS, TypeScript, Sass, Styled Components, Bootstrap, PHP, Firebase, Sentry, Figma, Git, Android Studio.
-
-
-#### 📚 Estou aprendendo 〰 I'm learning
+&nbsp;
 
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,rails,flutter" /> 
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,sass,styledcomponents,bootstrap" />  
 </div>
 
-###### NodeJS, Ruby on Rails, Flutter.
+###### React Native/JS, NextJS, TypeScript, Tailwind, Sass, Styled Components, Bootstrap.
 
+</details>
 
-#### 😉 Entre em contato comigo pelo LinkedIn: 〰 Contact me via LinkedIn
+<details>
+<summary>Back-end</summary>
+
+&nbsp;
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />  
+</div>
+
+###### NodeJS, Express, PHP.
+
+</details>
+
+<details>
+<summary>Database</summary>
+
+&nbsp;
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mongo,mysql" />  
+</div>
+
+###### MongoDB, MySql
+
+</details>
+
+#### Entre em contato comigo pelo LinkedIn: 〰 Contact me via LinkedIn
+
 <a href="https://linkedin.com/in/cleitonsalvagni" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" href='www.linkedin.com/in/cleitonsalvagni' width='40' height='40' />
+</a>
